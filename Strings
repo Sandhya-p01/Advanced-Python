@@ -1,4 +1,4 @@
-a="I Love india"
+a="I Love India"
 b=a.upper()
 c=a.swapcase()
 d=a.title()
