@@ -1,0 +1,8 @@
+a="p"
+b=a.isupper()
+c=a.isdigit()
+d=a.isalpha()
+e=a.isalnum()
+print(e)
+print(b)
+print(d)
